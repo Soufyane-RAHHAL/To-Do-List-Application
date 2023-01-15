@@ -9,7 +9,7 @@ This is a simple to-do list application built using Angular for the frontend and
 - MongoDB.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/to-do-list-app.git`
+1. Clone the repository: `git clone https://github.com/Soufyane-RAHHAL/To-Do-List-Application.git`
 2. Navigate to the `frontend` directory: `cd to-do-list-app/frontend`
 3. Install the dependencies: `npm install`
 4. Run the Angular development server: `ng serve`
