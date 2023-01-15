@@ -2,11 +2,11 @@
 This is a simple to-do list application built using Angular for the frontend and Spring Boot for the backend. The application allows users to add, edit, and delete to-do items, which are stored and retrieved from a MongoDB database.
 
 ## Prerequisites
--Node.js and npm.
--Angular CLI.
--Java 8 or later.
--Apache Maven.
--MongoDB.
+- Node.js and npm.
+- Angular CLI.
+- Java 8 or later.
+- Apache Maven.
+- MongoDB.
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/your-username/to-do-list-app.git`
