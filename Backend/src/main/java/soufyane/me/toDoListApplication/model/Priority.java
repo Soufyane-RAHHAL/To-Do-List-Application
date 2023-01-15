@@ -1,4 +1,5 @@
 package soufyane.me.toDoListApplication.model;
 
-public class item {
+public enum Priority {
+    HIGH, MEDIUM, LOW
 }
