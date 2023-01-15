@@ -18,12 +18,12 @@ public class ToDoListApplication {
 	CommandLineRunner runner(ItemRepository repository){
 		return args -> {
 			Item item = new Item(
-					"first Task",
-					"this is the description of the first task",
-					"20/01/2022",
-					Priority.LOW
+					"second Task",
+					"this is the description of the second task",
+					"15/01/2022",
+					Priority.MEDIUM
 			);
-			repository.insert(item);
+			//repository.insert(item);
 		};
 	}
 
